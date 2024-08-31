@@ -1,4 +1,6 @@
-<h1 align="center" style="font-size: 60px"> DDRIVE </h1>
+<h1 align="center" style="font-size: 60px"> DISCORD SERVER </h1>
+
+TUTORIAL: https://www.youtube.com/watch?v=Zvr1BHjrYC0
 
 <p align="center"><strong> Turn Discord into a datastore that can manage and store your files. </strong></p>
 <p align="center">
